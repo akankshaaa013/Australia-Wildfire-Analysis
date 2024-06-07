@@ -15,3 +15,7 @@ This wildfire dataset contains data on fire activities in Australia starting fro
 - Var_confidence: Variance of estimated fire radiative power in megawatts
 - Count: daily numbers of pixels for presumed vegetation fires with a confidence level of larger than 75% for a given region
 - Replaced: Indicates with an Y whether the data has been replaced with standard quality data when they are available (usually with a 2-3 month lag). Replaced data has a slightly higher quality in terms of locations
+
+
+## Dashboard 
+![image](https://github.com/akankshaaa013/Australia-Wildfire-Analysis/assets/130728236/7da931a3-ef33-4460-95a1-c487c6fa9595)
